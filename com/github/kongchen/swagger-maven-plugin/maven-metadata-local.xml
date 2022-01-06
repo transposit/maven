@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.kongchen</groupId>
+  <artifactId>swagger-maven-plugin</artifactId>
+  <versioning>
+    <versions>
+      <version>3.1.9-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20220106012739</lastUpdated>
+  </versioning>
+</metadata>
